@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "HTML5 clone of the photo tilt feature/gesture/ux found in Facebook's Paper app",
   "main": [
-    "photoTilt.js"
+    "photoTilt.js",
+    "style.css"
   ],
   "ignore": [
     "demo"
